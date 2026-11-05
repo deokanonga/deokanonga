@@ -8,6 +8,7 @@ I'm a **Cloud / DevOps** engineer and wedding photographer based in Seattle. I b
 |---|---|---|
 | [Serverless Photography Website](https://github.com/deokanonga/serverless-photography-website) | Inquiry form backend for [www.deokanonga.com](https://www.deokanonga.com): validates, saves and emails every inquiry, with alerts on failure | S3, CloudFront, ACM, Route 53, API Gateway, Lambda, DynamoDB, SES, CloudWatch, SNS, IAM |
 | [Serverless Client Tracker](https://github.com/deokanonga/serverless-client-tracker) | Private admin dashboard to follow each client from first message to delivered photos | Cognito (MFA), API Gateway JWT authorizer, Lambda, DynamoDB, CloudWatch |
+| [AWS Config](2026-11-04-aws-config.md) | Recorded security groups; restricted-ssh rule caught SSH open to 0.0.0.0/0 (Noncompliant), fixed it back to Compliant; read the resource timeline and JSON diff; detective vs preventive controls |
 
 
 ### Certifications
