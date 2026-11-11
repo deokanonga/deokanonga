@@ -11,7 +11,7 @@ I'm a **Cloud / DevOps** engineer and wedding photographer based in Seattle. I b
 | [EC2 Web Server Lab](https://github.com/deokanonga/ec2-web-server-lab) | Web server in a custom VPC, reached with Session Manager instead of SSH, with a CPU alarm, a NACL break/fix and a CloudTrail audit | EC2, VPC, NACL, Security Groups, IAM role, Systems Manager, CloudWatch, SNS, CloudTrail |
 
 ### Certifications
-<a href="https://www.credly.com/badges/a7e8266b-0a3a-41f1-aa06-fde68f1d314b/public_url"><img src="https://images.credly.com/size/220x220/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="110" alt="AWS Certified Cloud Practitioner"></a> <a href="https://www.credly.com/badges/b12e4db2-205e-4174-a7bd-a3ef9ed9078b/public_url"><img src="https://images.credly.com/size/220x220/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png" width="110" alt="Cisco Networking Basics"></a>
+<a href="https://www.credly.com/badges/a7e8266b-0a3a-41f1-aa06-fde68f1d314b/public_url"><img src="https://images.credly.com/size/220x220/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="110" alt="AWS Certified Cloud Practitioner"></a> <a href="https://www.credly.com/badges/b12e4db2-205e-4174-a7bd-a3ef9ed9078b/public_url"><img src="https://images.credly.com/size/220x220/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png" width="110" alt="Cisco Networking Basics"></a> &nbsp;&nbsp;<a href="https://www.credly.com/badges/353808bc-d2da-48fe-932f-6b891e771af1/public_url"><img src="https://images.credly.com/size/220x220/images/97a95d07-04c3-4afb-952a-6bcf46ddb87e/blob" width="110" alt="Introduction to Linux (LFS101)"></a>
 
 
 ### What I'm working on
